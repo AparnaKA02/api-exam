@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+/* #main{
+    padding: 50px;
+} */
+#sub{
+  
+    margin-right: 120px;
+    margin-left: 120px;
+        background-image: linear-gradient(to right, rgb(0, 174, 243), rgba(40, 40, 197, 0.76));
+ 
+}
